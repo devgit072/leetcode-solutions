@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MinimumTicketCost_983 {
+public class LC983_MinimumTicketCost {
 
     /*
        Normal unoptimized solution.
